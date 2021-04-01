@@ -1,0 +1,2 @@
+ru/gamedev/desktop/DesktopLauncher.java
+ ru.gamedev.desktop.DesktopLauncher
